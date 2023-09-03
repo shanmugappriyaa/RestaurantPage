@@ -7,12 +7,9 @@
 
 .bg-dark{
     background-color: #FDBE35 !important;
-    height: 350px;
 }
 
-.leaf-image{
-    width: 350px;
-}
+
 .btn.btn-outline-primary{
     color:#FFAC0D !important;
     border: 2px solid #FFAC0D !important;
@@ -49,7 +46,7 @@ font-size:24px;
 }
 .btn.ordernow{
     background-color: #F17228;
-    color:#fff;width: 140px;
+    color:#fff;
     font-size: 12px;
     font-family: 'Source Sans 3', sans-serif;
 }
